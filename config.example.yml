@@ -1,0 +1,7 @@
+# The configuration file for heybud.
+
+# Settings for the API
+api:
+  # User & repo name.
+  user: 'brendanashworth'
+  repo: 'heybud'
